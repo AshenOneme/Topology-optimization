@@ -18,3 +18,13 @@ Topology optimization based on OpenSeesPy
     <td><div align=center><img height="180px" src="https://github.com/AshenOneme/Topology-optimization/assets/98397090/8194a05b-a7bc-4064-afa2-a40c9900ddeb"/></td>
   </tr>
 </table>
+
+---------------------------------------------------------------
+<table align="center" border="0" style="border-collapse: collapse;">
+  <tr>
+    <td><div align=center><img height="180px" src="https://github.com/AshenOneme/Topology-optimization/assets/98397090/8b342931-e148-4680-aed2-c739d1583f07"/></td>
+    <td><div align=center><img height="180px" src="https://github.com/AshenOneme/Topology-optimization/assets/98397090/8f8652ab-ae2e-43bd-86a6-27f00cd0ba93"/></td>
+    <td><div align=center><img height="180px" src="https://github.com/AshenOneme/Topology-optimization/assets/98397090/314437e6-8d50-4939-b2e3-831d469c9001"/></td>
+    <td><div align=center><img height="180px" src="https://github.com/AshenOneme/Topology-optimization/assets/98397090/d9d40fe9-4bea-486a-9fc0-7522038371f4"/></td>
+  </tr>
+</table>
